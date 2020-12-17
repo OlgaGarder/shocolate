@@ -1,0 +1,34 @@
+
+
+// Импорт стилей
+
+@import 'libs/animate';
+@import 'libs/bootstrap';
+
+@import 'header';
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 1050px;
+    margin: 0 auto;
+}
+
+// main style 
+
+a, a:hover {
+    text-decoration: none;  
+}
+
+
+ul {
+	margin: 0;
+	padding: 0;
+
+	li {
+		list-style: none;
+	}
+}
